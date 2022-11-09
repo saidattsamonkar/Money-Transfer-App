@@ -6,8 +6,8 @@
 
 ## Steps to run project locally
 > Run the following commands in your terminal
-1. `git clone git@github.com:neu-mis-info6150-spring-2021/final-project-team-sheldon.git`
-2. `cd final-project-team-sheldon`
+1. `git clone git@github.com/saidattsamonkar/Money-Transfer-App`
+2. Unzip and `cd Archive`
 3. `cd ui`
 4. `npm install`
 5. `npm run build`
